@@ -1,4 +1,6 @@
 ![](http://pinaxproject.com/pinax-design/patches/pinax-stripe.svg)
+## Внимание
+⚠️ **Проект находится в стадии разработки.** ⚠️
 
 # Pinax Stripe (Light)
 
