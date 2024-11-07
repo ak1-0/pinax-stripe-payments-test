@@ -15,7 +15,3 @@
 
 [![](http://slack.pinaxproject.com/badge.svg)](http://slack.pinaxproject.com/)
 
-
-# Тестирование проекта Pinax Stripe Light
-![Work In Progress](https://img.shields.io/badge/Work%20In%20Progress-orange?style=flat-square)
-
